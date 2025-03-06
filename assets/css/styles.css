@@ -183,6 +183,7 @@ img {
 
 .nav__logo:hover {
   color: var(--first-color);
+  transition: color 0.9s ease;
 }
 
 .nav__toggle {
@@ -192,6 +193,7 @@ img {
 
 .nav__toggle:hover {
   color: var(--first-color);
+  transition: color 0.9s ease;
 }
 
 @media screen and (max-width: 767px) {
@@ -224,6 +226,7 @@ img {
 
 .nav__link:hover {
   color: var(--first-color);
+  transition: color 0.9s ease;
 }
 
 .nav__icon {
@@ -241,6 +244,7 @@ img {
 
 .nav__close:hover {
   color: var(--first-color-alt);
+  transition: color 0.9s ease;
 }
 
 /* show menu */
@@ -282,6 +286,7 @@ img {
 
 .home__social-icon:hover {
   color: var(--first-color-alt);
+  transition: color 0.9s ease;
 }
 
 .home__blob {
@@ -323,6 +328,7 @@ img {
 
 .home__scroll-button:hover {
   transform: translateY(0.25rem);
+  transition: color 0.9s ease;
 }
 
 .home__scroll-mouse {
@@ -348,6 +354,7 @@ img {
   padding: 1rem;
   border-radius: .5rem;
   font-weight: var(--font-medium);
+  transition: color 0.9s ease;
 }
 
 .button:hover {
@@ -363,6 +370,7 @@ img {
 .button--white {
   background-color: #FFF;
   color: var(--first-color);
+  transition: color 0.9s ease;
 }
 
 .button--white:hover {
@@ -382,12 +390,15 @@ img {
   padding: 0;
   background-color: transparent;
   color: var(--first-color);
+  transition: color 0.9s ease;
 }
 
 .button--link:hover {
   background-color: transparent;
   color: var(--first-color-alt);
+  transition: color 0.9s ease;
 }
+
 
 /*==================== ABOUT ====================*/
 .about__img {
@@ -574,6 +585,7 @@ img {
 
 .qualification__button:hover {
   color: var(--first-color);
+  transition: color 0.9s ease;
 }
 
 .qualification__icon {
@@ -649,6 +661,7 @@ img {
 
 .services__content:hover {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+  transition: color 0.9s ease;
 }
 
 .services__icon {
@@ -671,6 +684,7 @@ img {
 
 .services__button:hover .button__icon {
   transform: translateX(0.25rem);
+  transition: color 0.9s ease;
 }
 
 .services__modal {
@@ -757,6 +771,7 @@ img {
 
 .portfolio__button:hover .button__icon {
   transform: translateX(0.25rem);
+  transition: color 0.9s ease;
 }
 
 .swiper-button-prev::after,
@@ -938,6 +953,7 @@ img {
 
 .footer__link:hover {
   color: var(--first-color-lighter);
+  transition: color 0.9s ease;
 }
 
 .footer__social {
@@ -947,6 +963,7 @@ img {
 
 .footer__social:hover {
   color: var(--first-color-lighter);
+  transition: color 0.9s ease;
 }
 
 .footer__copy {
@@ -975,6 +992,7 @@ img {
 
 .scrollup:hover {
   background-color: var(--first-color-alt);
+  transition: color 0.9s ease;
 }
 
 .scrollup__icon {
@@ -1005,6 +1023,7 @@ img {
 
 ::-webkit-scrollbar-thumb:hover {
   background-color: var(--text-color-light);
+  transition: color 0.9s ease;
 }
 
 /*==================== MEDIA QUERIES ====================*/
