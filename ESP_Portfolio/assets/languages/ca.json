@@ -1,0 +1,210 @@
+{
+    "header": {
+      "logo": "Marc Barberà",
+      "home": "Inici",
+      "about": "Sobre Mi",
+      "skills": "Habilitats",
+      "services": "Serveis",
+      "portfolio": "Projectes",
+      "contact": "Contacte"
+    },
+    "home": {
+      "title": "Marc Barberà",
+      "subtitle": "Suport IT",
+      "description": "Coneixements en suport IT i administració de sistemes, amb capacitat per oferir solucions eficients i en constant desenvolupament professional.",
+      "contact_button": "Contacta'm"
+    },
+    "about": {
+      "title": "Sobre Mi",
+      "subtitle": "Introducció",
+      "description": "Tècnic en IT, amb coneixements en suport, xarxes i sistemes, enfocat a oferir solucions eficients i en constant creixement professional.",
+      "info": {
+        "education": "+3 Anys d'educació",
+        "practices": "+1 Any de pràctiques",
+        "programs": "+10 Programes apresos"
+      },
+      "cv_button": "Descarregar CV"
+    },
+    "skills": {
+      "title": "Habilitats",
+      "subtitle": "Més de 3 anys de formació",
+      "sections": {
+        "frontend": {
+          "title": "Desenvolupador Frontend",
+          "skills": {
+            "html": {
+              "name": "HTML",
+              "level": "90%"
+            },
+            "css": {
+              "name": "CSS",
+              "level": "90%"
+            }
+          }
+        },
+        "backend": {
+          "title": "Desenvolupador Backend",
+          "skills": {
+            "php": {
+              "name": "PHP",
+              "level": "85%"
+            },
+            "bash": {
+              "name": "Bash",
+              "level": "70%"
+            },
+            "sql": {
+              "name": "SQL",
+              "level": "95%"
+            }
+          }
+        },
+        "design": {
+          "title": "Disseny",
+          "skills": {
+            "photoshop": {
+              "name": "Photoshop",
+              "level": "90%"
+            },
+            "premiere": {
+              "name": "Premiere Pro",
+              "level": "85%"
+            }
+          }
+        },
+        "programs": {
+          "title": "Programes",
+          "skills": {
+            "microsoft": {
+              "name": "Programes Microsoft",
+              "level": "95%"
+            },
+            "google": {
+              "name": "Programes Google",
+              "level": "95%"
+            },
+            "packet_tracer": {
+              "name": "Cisco Packet Tracer",
+              "level": "90%"
+            },
+            "wordpress": {
+              "name": "WordPress",
+              "level": "90%"
+            },
+            "vmware": {
+              "name": "VMware Workstation",
+              "level": "95%"
+            },
+            "mysql_workbench": {
+              "name": "MySQL Workbench",
+              "level": "90%"
+            }
+          }
+        }
+      }
+    },
+    "qualification": {
+      "title": "Recorregut",
+      "subtitle": "El meu recorregut professional",
+      "tabs": {
+        "education": "Educació",
+        "work": "Treball"
+      },
+      "education": {
+        "1": {
+          "title": "CFGS ASIR",
+          "subtitle": "Salle Grácia, Barcelona",
+          "year": "2024 - Cursant"
+        },
+        "2": {
+          "title": "CFGM SMYR",
+          "subtitle": "Salle Barceloneta, Barcelona",
+          "year": "2022 - 2024"
+        }
+      },
+      "work": {
+        "1": {
+          "title": "Suport IT",
+          "subtitle": "Institut María Espinalt, Barcelona",
+          "year": "2023-2024"
+        }
+      }
+    },
+    "services": {
+      "title": "Serveis",
+      "subtitle": "Què puc oferir",
+      "service1": {
+        "title": "Administrador de Xarxes",
+        "description": "Configuració i manteniment de xarxes. Monitorització de la xarxa. Seguretat de la xarxa. Resolució de problemes. Administració de servidors. Planificació i millora de la xarxa."
+      },
+      "service2": {
+        "title": "Desenvolupador Frontend i Backend",
+        "description": "Desenvolupament de pàgines web. Optimització de rendiment. Gestió de bases de dades. Gestió de servidors i xarxes."
+      },
+      "service3": {
+        "title": "Administrador de Sistemes Operatius",
+        "description": "Instal·lació i configuració de sistemes operatius. Gestió d'usuaris i permisos. Monitorització i gestió de recursos. Automatització de tasques. Suport tècnic de Sistemes Operatius."
+      }
+    },
+    "portfolio": {
+      "title": "Projectes",
+      "subtitle": "Els meus projectes més recents",
+      "project1": {
+        "title": "Pàgina Web amb WordPress",
+        "description": "Una pàgina web dissenyada específicament per satisfer les necessitats acadèmiques. Aquest projecte ha estat una oportunitat per seguir aprenent i aprofundir en nous coneixements."
+      },
+      "project2": {
+        "title": "Creació d'aquest Portfolio",
+        "description": "Aquest portfolio està dissenyat per mostrar la meva evolució i aprenentatge en el món de la tecnologia. Cada projecte aquí presentat reflecteix la meva dedicació i creixement professional."
+      },
+      "project3": {
+        "title": "Creació de Base de Dades",
+        "description": "Vaig desenvolupar una base de dades dissenyada específicament per cobrir les necessitats d'una empresa en l'àmbit acadèmic. Aquest projecte m'ha permès ampliar les meves habilitats i adquirir nous coneixements."
+      }
+    },
+    "project_in_mind": {
+      "title": "Tens un nou projecte?",
+      "description": "Pots contactar-me aquí."
+    },
+    "contact": {
+      "title": "Contacta'm",
+      "information": {
+        "phone": {
+          "title": "Truca'm",
+          "subtitle": "(+34) 652 115 209"
+        },
+        "email": {
+          "title": "Email",
+          "subtitle": "marcbarberat@gmail.com"
+        },
+        "location": {
+          "title": "Ubicació",
+          "subtitle": "Vilanova i la Geltrú, Espanya"
+        }
+      },
+      "form": {
+        "name": "Nom",
+        "email": "Email",
+        "project": "Projecte",
+        "message": "Missatge",
+        "submit": "Enviar Missatge"
+      }
+    },
+    "footer": {
+      "title": "Marc Barberà",
+      "subtitle": "Suport IT",
+      "links": {
+        "services": "Serveis",
+        "portfolio": "Portfolio",
+        "contact": "Contacta'm"
+      },
+      "socials": {
+        "facebook": "Facebook",
+        "instagram": "Instagram",
+        "twitter": "Twitter"
+      },
+      "copy": "© Marc Barberà Torner. Tots els drets reservats."
+    },
+    "scroll_top": "Pujar"
+}
+  
