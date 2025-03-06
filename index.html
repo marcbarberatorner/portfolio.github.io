@@ -120,7 +120,7 @@
                     <img src="assets/img/about.jpg" alt="" class="about__img">
 
                     <div class="about__data">
-                        <p class="about__description">Técnico en IT, con conocimientos en soporte, redes y sistemas, 
+                        <p class="about__description">Tecnico en Sistemas Microinformaticos y Soporte de IT, 
                             enfocado en ofrecer soluciones eficientes y en constante crecimiento profesional.
                         </p>
 
@@ -269,9 +269,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
 
-                    <div>
                         <div class="skills__content skills__close">
                             <div class="skills__header">
                                 <i class="uil uil-server-network skills__icon"></i>
@@ -654,33 +652,33 @@
                         </div>
                     </div>
 
-                    <form action="https://formspree.io/f/xvgkpoay" method="POST" class="contact__form grid">
+                    <form action="formulario.php" method="POST" class="contact__form grid">
                         <div class="contact__inputs grid">
                             <div class="contact__content">
-                                <label for="" class="contact__label">Nombre</label>
-                                <input type="text" class="contact__input">
+                                <label for="nombre" class="contact__label">Nombre</label>
+                                <input type="text" id="nombre" name="nombre" class="contact__input" required>
                             </div>
                             <div class="contact__content">
-                                <label for="" class="contact__label">Email</label>
-                                <input type="email" class="contact__input">
+                                <label for="email" class="contact__label">Email</label>
+                                <input type="email" id="email" name="email" class="contact__input" required>
                             </div>
                         </div>
                         <div class="contact__content">
-                            <label for="" class="contact__label">Proyecto</label>
-                            <input type="text" class="contact__input">
+                            <label for="proyecto" class="contact__label">Proyecto</label>
+                            <input type="text" id="proyecto" name="proyecto" class="contact__input" required>
                         </div>
                         <div class="contact__content">
-                            <label for="" class="contact__label">Mensaje</label>
-                            <textarea name="" id="" cols="0" rows="7" class="contact__input"></textarea>
+                            <label for="mensaje" class="contact__label">Mensaje</label>
+                            <textarea id="mensaje" name="mensaje" cols="0" rows="7" class="contact__input" required></textarea>
                         </div>
-                        
+                    
                         <div>
-                            <a href="" class="button button--flex">
+                            <button type="submit" class="button button--flex">
                                 Enviar Mensaje
                                 <i class="uil uil-message button__icon"></i>
-                            </a>
+                            </button>
                         </div>
-                    </form>
+                    </form>                    
                 </div>
 
             </section>
